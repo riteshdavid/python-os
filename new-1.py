@@ -1,4 +1,4 @@
-#!/home/game/Desktop/py-scripts/env/bin/python3
+
 import os
 def currentdir():
     print("Current:"+os.getcwd())
